@@ -1,6 +1,6 @@
 # ElectriGrid Preliminary Exploration
 
-This repository contains notebooks from the very first explorations of our capstone project data sources (a full list of which can be found in the [GitHub project's README](https://github.com/ElectriGrid)).
+This repository contains notebooks from the very first explorations of our capstone project data sources (a full list of which can be found in the [GitHub organization's README](https://github.com/ElectriGrid)).
 
 ## Repository Structure
 
