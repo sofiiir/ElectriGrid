@@ -1,15 +1,14 @@
-# ElectriGrid
+# ElectriGrid Preliminary Exploration
 
-## Mapping how distribution grid constraints shape resilient and equitable energy transition
+This repository contains notebooks from the very first explorations of our capstone project data sources (a full list of which can be found in the [GitHub project's README](https://github.com/ElectriGrid)).
 
-This repository contains analysis for the MEDS 2026 Capstone ElectriGrid project. 
+## Repository Structure
 
-## Project Summary
+This repository soley contains individual notebooks – their names accurately represent what they contain. If the notebook is simply named after a data source (for example, `utilities.ipynb`), it contains initial attempts to load in and explore the data).
 
-Distributed energy resources (DER) are small-scale energy generation and storage technologies, such as rooftop solar or electric vehicles, that play a significant role in the rapid decarbonization of the energy system. The integration of DERs and the electrification of buildings and transportation are inequitably affecting communities, with the potential of wealthier communities reaping more benefits from this transition. There is currently no streamlined method for determining the inequities with consideration of both utility and socioeconomic data. Through this project, the capstone team will create a reproducible workflow that automates the linkage between the two data sources and simulates future energy scenarios. These analytical tools and data products will help utility grid planners, state energy regulators, and community advocacy groups ensure a more equitable decarbonization process.
+## Contributors
+- [Sofia Sarak](https://github.com/sofiasarak)
+- [Sofia Rodas](https://github.com/sofiiir)
+- [Zach Loo](https://github.com/zachyyy700)
 
-**Authors:**  [Sofia Sarak](https://bren.ucsb.edu/people/sofia-sarak), [Zach Loo](https://bren.ucsb.edu/people/zach-loo), [Sofia Rodas](https://bren.ucsb.edu/people/sofia-rodas) 
-
-**Advisor:** [Grace Wu](https://bren.ucsb.edu/people/grace-wu)  
-
-**Client:** [Yohan Min](https://es.ucsb.edu/people/yohan-min)  
+The analysis is part of a larger capstone project for the [Master of Environmental Data Science program](https://bren.ucsb.edu/masters-programs/master-environmental-data-science) at the Bren School of Environmental Science & Management. More information on the project can be found on the [Bren website](https://bren.ucsb.edu/projects/power-lines-and-people-mapping-how-distribution-grid-constraints-shape-resilient-and).
